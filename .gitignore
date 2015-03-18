@@ -1,6 +1,6 @@
-.DS_Store
+*.DS_Store
 venv
-.sublime-project
-.sublime-workspace
-.pyc
-.json
+*.sublime-project
+*.sublime-workspace
+*.pyc
+*.json
